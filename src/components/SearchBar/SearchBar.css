@@ -1,0 +1,23 @@
+.form-control {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius:  3.8rem;
+}
+
+button {
+    padding-left: 1rem;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.search-form-ele .form-control{
+    font-size: 2rem;
+    padding: 0.6rem;
+}
+
+.form-control:focus{
+    font-size: 2.05rem;
+}
